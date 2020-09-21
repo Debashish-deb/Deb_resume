@@ -6,4 +6,4 @@ A little over a year.
 ## What is your main background?
 Biotechnology.
 ## What has been the difficult part about developer job seeking? 
-Getting an interview. I'm in the process of doing job applications for the summer so hopefully I can get an interview.
+Getting an interview. I'm in the process of doing job applications, so hopefully I can get an interview.
